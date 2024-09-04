@@ -42,14 +42,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/-zeynepkaplan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdpNmw4dzVvbzBiZHpjMzZyODk5bGdxNXU2c3d5dzN3OXhiYW9layZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ5tJAaqaqBJCckOft/giphy.webp"  />
 
 ###
