@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm Zeynep, I am a 1st year student of Kocaeli University Electronics and Communication Engineering</h2>
+<h2 align="left">Hi 👋 I'm Zeynep, I am a 2nd year student of Kocaeli University Electronics and Communication Engineering</h2>
 
 ###
 
