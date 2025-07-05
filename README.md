@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋 I'm Zeynep, I am a 2nd year student of Kocaeli University Electronics and Communication Engineering</h2>
 
-###
-
 <img align="center" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjdpNmw4dzVvbzBiZHpjMzZyODk5bGdxNXU2c3d5dzN3OXhiYW9layZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cJ5tJAaqaqBJCckOft/giphy.webp"  />
 
 ###
